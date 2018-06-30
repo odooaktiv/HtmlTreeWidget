@@ -16,7 +16,7 @@
     'depends': ['base'],
 
     # always loaded
-    'data': [       
+    'data': [
         'views/templates.xml',
     ],
     'images': ['static/description/banner.jpg'],
