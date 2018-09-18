@@ -13,7 +13,7 @@
     'website': "http://www.aktivsoftware.com",
     'category': 'Web',
     'license': 'AGPL-3',
-    'version': '0.1',
+    'version': '9.0.1.0.0',
     'depends': ['base'],
 
     # always loaded
